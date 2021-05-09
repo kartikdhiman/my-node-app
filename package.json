@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/kartikdhiman/task-manager#readme",
   "dependencies": {
-    "mongodb": "^3.6.5"
+    "mongoose": "^5.12.7"
   }
 }
