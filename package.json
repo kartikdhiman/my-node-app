@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/kartikdhiman/task-manager#readme",
   "dependencies": {
-    "mongoose": "^5.12.7"
+    "mongoose": "^5.12.7",
+    "validator": "^13.6.0"
   }
 }
